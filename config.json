@@ -14,7 +14,7 @@
                 },
                 "pray": {
                     "enable": true,
-                    "time": 303000
+                    "time": 252000,
                 },
                 "curse": {
                     "enable": true,
@@ -35,12 +35,12 @@
                 }
             }
         },
-        "prefix": "",
+        "prefix": "o",
         "huntandbattle": true,
         "banbypass": true,
         "discordrpc": false,
         "typingindicator": true,
-        "pray": false,
+        "pray": true,
         "curse": false,
         "cookie": false,
         "autoquest": false,
@@ -83,10 +83,10 @@
                 "default_amount": 1000,
                 "max_amount": 150000,
                 "multipler": 3,
-                "enable": false
+                "enable": true
             },
             "slots": {
-                "enable": false,
+                "enable": true,
                 "amount": "1"
             }
         },
@@ -115,11 +115,11 @@
     },
     "main": {
         "token": "",
-        "userid": "",
-        "channelid": "",
-        "owodmchannelid": "",
-        "gamblechannelid": "",
-        "autoquestchannelid": ""
+        "userid": "1135617902444290249",
+        "channelid": "1302619189818822696",
+        "owodmchannelid": "1308469113135431710",
+        "gamblechannelid": "1309437997069897768",
+        "autoquestchannelid": "1309437997069897768"
     },
     "extra": {
         "token": "",
