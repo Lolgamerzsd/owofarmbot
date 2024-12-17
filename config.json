@@ -14,7 +14,7 @@
                 },
                 "pray": {
                     "enable": true,
-                    "time": 252000,
+                    "time": 252000
                 },
                 "curse": {
                     "enable": true,
@@ -80,8 +80,8 @@
         },
         "gamble": {
             "coinflip": {
-                "default_amount": 1000,
-                "max_amount": 150000,
+                "default_amount": 2000,
+                "max_amount": 250000,
                 "multipler": 3,
                 "enable": true
             },
